@@ -31,8 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50"  hspace="5" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" hspace="5" height="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="50" hspace="5" height="50"/> 
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" hspace="5" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" hspace="5" width="50" height="50"/>
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" hspace="5" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" hspace="5" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" hspace="5"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" hspace="5" height="50"/> 
