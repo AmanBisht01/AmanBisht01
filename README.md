@@ -26,8 +26,7 @@
 ### Skills
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" hspace="5" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="c" width="50"  hspace="5" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="c" width="50"  hspace="5" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"  hspace="5" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="css3" width="50" hspace="5" height="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="50" hspace="5" height="50"/> 
@@ -48,7 +47,8 @@
 ---
 
 <h3 >Programming Profiles</h3>
-<p>
+<img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="300px" height="200px" />
+<p align="left">
    <a href="https://www.hackerrank.com/bishtaman1111"> 
   <img src="https://github.com/uniquesarvekash/uniquesarvekash/blob/main/assets/hr.svg" alt="react" width="50" hspace="5" height="50"/>
    </a>
@@ -61,41 +61,31 @@
    <a href="https://leetcode.com/Aman_Bisht01/"> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="GFG" width="50" hspace="5" height="50"/>
    </a>
-  
 </p>
+
+
 
 ---
 
 <h3> Connect with Me :mag: </h3> 
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/aman-bisht-ba1934182/"> 
+
+   <a href="https://www.linkedin.com/in/aman-bisht-ba1934182/"> 
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
       </a> 
-    </td>
-    <td>
-      <a href="https://github.com/AmanBisht01"> 
+   
+   <a href="https://github.com/AmanBisht01"> 
         <img height="30" src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
       </a>
-    </td>
-    <td>
-      <a href="mailto:bishtaman1111@gmail.com">
+   <a href="mailto:bishtaman1111@gmail.com">
         <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> 
       </a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/aman_bisht01/">
+ 
+  <a href="https://www.instagram.com/aman_bisht01/">
         <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
       </a>
-    </td>
-     <td>
-      <a href="https://discord.com/channels/@me">
+   <a href="https://discord.com/channels/@me">
         <img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> 
       </a>
-    </td>
    
-  </tr>
-</table>
 </p>
